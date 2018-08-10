@@ -8,3 +8,6 @@ Implementation of main ideas in Java (to be updated):
   - Polymorphism
   - this vs this()
   - Overloading vs overriding
+  - super vs super()
+  - Immutable class
+  - Inheritance
