@@ -16,3 +16,4 @@ Implementation of main ideas in Java (to be updated):
   - Virtual Methods
 - Singleton Pattern
 - Multi Dimensional Arrays
+- Removing Duplicate from an Array
