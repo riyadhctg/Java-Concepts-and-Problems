@@ -14,3 +14,4 @@ Implementation of main ideas in Java (to be updated):
   - Abstract Class and Methods
   - Interface
   - Virtual Methods
+- Singleton Pattern
