@@ -17,3 +17,4 @@ Implementation of main ideas in Java (to be updated):
 - Singleton Pattern
 - Multi Dimensional Arrays
 - Removing Duplicate from an Array
+- Fibnacci Series Recursive function with regular for loop, HashMap, and ArrayList
