@@ -12,9 +12,9 @@ public class CatTester {
 
         System.out.println("Printing from CatTester");
 
-        Cat husky = new Cat();
+        Cat sphynx = new Cat();
 
-        System.out.println(husky.count); // warning because we can access the static variable without creating object
+        System.out.println(sphynx.count); // warning because we can access the static variable without creating object
         System.out.println(Cat.count);
 
         Cat anotherCat = new Cat();
@@ -23,11 +23,11 @@ public class CatTester {
 
         System.out.println(Cat.count);
 
-        husky = null;
+        sphynx = null;
         anotherCat = null;
 
         System.out.println(Cat.count);
-        System.out.println(husky.count);
+        System.out.println(sphynx.count);
         System.out.println(anotherCat.count);
 
         Cat.count = 10;
