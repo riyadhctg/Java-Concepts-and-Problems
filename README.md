@@ -17,8 +17,13 @@ Implementation of main ideas in Java (to be updated):
 - Singleton Pattern
 - Multi Dimensional Arrays
 - Removing Duplicate from an Array
-- Fibonacci Series Recursive function with regular for loop, HashMap, and ArrayList
 - Static Initailization (Static block etc.)
 - Static Fields and Methods
 - Final Variables
 - Variable Arguments
+
+
+# Common Puzzles (to be updated):
+
+- Palindrome Checker
+- Fibonacci Series Recursive function with regular for loop, HashMap, and ArrayList
