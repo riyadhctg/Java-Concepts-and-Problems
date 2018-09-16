@@ -29,3 +29,4 @@ Implementation of main ideas in Java (to be updated):
 - Fibonacci Series Recursive function with regular for loop, HashMap, and ArrayList
 - Prime Number Checker
 - Factorial
+- Armstrong Number
