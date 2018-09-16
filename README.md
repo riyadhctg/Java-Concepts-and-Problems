@@ -16,7 +16,6 @@ Implementation of main ideas in Java (to be updated):
   - Virtual Methods
 - Singleton Pattern
 - Multi Dimensional Arrays
-- Removing Duplicate from an Array
 - Static Initailization (Static block etc.)
 - Static Fields and Methods
 - Final Variables
@@ -29,6 +28,7 @@ Implementation of main ideas in Java (to be updated):
 - Fibonacci Series Recursive function with regular for loop, HashMap, and ArrayList
 - Prime Number Checker
 - Factorial
+- Removing Duplicate from an Array
 - Armstrong Number
 - Number swap without third variable
 - Frequency of a character
