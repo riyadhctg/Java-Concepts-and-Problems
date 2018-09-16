@@ -31,3 +31,4 @@ Implementation of main ideas in Java (to be updated):
 - Factorial
 - Armstrong Number
 - Number swap without third variable
+- Frequency of a character
