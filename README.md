@@ -28,3 +28,4 @@ Implementation of main ideas in Java (to be updated):
 - Palindrome Checker
 - Fibonacci Series Recursive function with regular for loop, HashMap, and ArrayList
 - Prime Number Checker
+- Factorial
