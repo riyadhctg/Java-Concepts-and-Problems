@@ -30,3 +30,4 @@ Implementation of main ideas in Java (to be updated):
 - Prime Number Checker
 - Factorial
 - Armstrong Number
+- Numer Swap without third variable
