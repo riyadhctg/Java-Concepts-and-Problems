@@ -32,3 +32,4 @@ Implementation of main ideas in Java (to be updated):
 - Armstrong Number
 - Number swap without third variable
 - Frequency of a character
+- Common elements in two arrays
